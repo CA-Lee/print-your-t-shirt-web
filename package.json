@@ -12,5 +12,9 @@
     "@nuxt/devtools": "latest",
     "@types/node": "^18.17.3",
     "nuxt": "^3.6.5"
+  },
+  "dependencies": {
+    "@master/css-server.nitro": "^2.0.0-beta.166",
+    "@master/css.vue": "^2.0.0-beta.166"
   }
 }
